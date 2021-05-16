@@ -15,7 +15,7 @@
     padding: 3% ;
     
 
-    text-align:justify;
+    /*text-align:justify;*/
 
     border: 10px solid transparent;
 
@@ -33,13 +33,7 @@
     
   }
 
-  .gradient-text-color{
 
-    background: -webkit-linear-gradient(#e7850d, #f53b03);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-}
 
   
 
