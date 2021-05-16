@@ -1,0 +1,47 @@
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*align-items: center;*/
+
+    
+    font-family: Roboto;
+    font-size: 30px;
+    color: white;
+
+    margin: 3% ;
+    
+    padding: 3% ;
+    
+
+    text-align:justify;
+
+    border: 10px solid transparent;
+
+  border-image: url("../assets/donutsFooter.png") 30 round;
+
+  
+  }
+
+  .element{
+
+    margin: auto;
+
+    width: 80%;
+
+    
+  }
+
+  .gradient-text-color{
+
+    background: -webkit-linear-gradient(#e7850d, #f53b03);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+  
+
+  /* Responsive Styles */
+  

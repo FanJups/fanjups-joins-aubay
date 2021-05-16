@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+/*@import './app/vendor/semantic.min.css';*/
+
+html{
+
+    background-color: #062B52;  /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(#062B52, #0C87E8);*/
+    
+}
+
+.gradient-text-color{
+
+    background: -webkit-linear-gradient(#e7850d, #f53b03);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
